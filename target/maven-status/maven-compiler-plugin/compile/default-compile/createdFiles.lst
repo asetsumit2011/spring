@@ -1,0 +1,7 @@
+com/springdemo/helloworld/web/HelloController.class
+com/springdemo/helloworld/model/Photo.class
+com/springdemo/helloworld/repository/PhotosRepository.class
+com/springdemo/helloworld/web/DownloadController.class
+com/springdemo/helloworld/web/HelloWorldController.class
+com/springdemo/helloworld/service/PhotosService.class
+com/springdemo/helloworld/HelloWorldApplication.class
